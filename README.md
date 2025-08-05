@@ -15,5 +15,6 @@ Este projeto simula um pipeline ETL realista com Python, Pandas e PySpark, focad
 3. **Análise**: Geração de insights econômicos
 4. **Exportação**: CSV e Parquet
 
+[Base de Ddos Usada](https://basedosdados.org/dataset/3ee33c3c-d8f9-4088-aee3-d34ee1efc0ae?table=826c960c-45d7-4e54-b493-48f07de29497)
 ...
 
